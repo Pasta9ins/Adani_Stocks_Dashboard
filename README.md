@@ -14,6 +14,8 @@ This repository showcases a data analytics project on Adani Enterprises, highlig
    - Built an interactive dashboard with performance indicators, trend analysis, and drill-downs.  
 
 ## Dashboard Highlights
+![Adani Enterprises Dashboard](./Dashboard.png)
+
 ### Key Metrics
 - Avg. 52-Week High: **3.91K**  
 - Avg. 52-Week Low: **1.14K**  
